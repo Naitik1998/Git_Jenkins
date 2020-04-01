@@ -1,0 +1,11 @@
+@charset "ISO-8859-1";
+
+div {
+	margin: 10% auto;
+	background-color: grey;
+	border-radius: 2%;
+	color: white;
+	border: 1px dashed grey;
+	width: 70%;
+	padding: 1% 2% 5% 2%
+}
